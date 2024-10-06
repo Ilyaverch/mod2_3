@@ -6,7 +6,7 @@ while number < len(my_list) :
     if my_list[number]!=0:
      print((my_list[number]))
     number+=1
- continue
+    continue
 if number < 0:
     print(my_list[number])
 
